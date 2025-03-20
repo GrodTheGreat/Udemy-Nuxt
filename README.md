@@ -1,4 +1,6 @@
-# Learn Nuxt 3: Intuitive Vue Framework, Build and Deploy 2 Production Grade Full-Stack Apps
+# Learn Nuxt 3: Intuitive Vue Framework
+
+## Build and Deploy 2 Production Grade Full-Stack Apps
 
 Dive deep into the world of Nuxt 3 with this all-encompassing guide. Geared for developers eager to unlock the full power of the Nuxt 3 framework, this course offers you an intensive, project-based learning experience that will make you a full-stack Nuxt maestro.
 
