@@ -38,7 +38,7 @@ useHead({
   </div>
 </template>
 
-<style>
+<style lang="postcss">
 body {
   font-family: "Roboto";
 }
