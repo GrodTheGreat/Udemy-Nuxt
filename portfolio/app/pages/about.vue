@@ -3,6 +3,10 @@
 //   layout: "another",
 // });
 
+useHead({
+  title: "About",
+});
+
 function enableCustomLayout() {
   setPageLayout("another");
 }
