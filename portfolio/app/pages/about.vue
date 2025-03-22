@@ -20,7 +20,7 @@ const { data: page } = await useAsyncData(route.path, () => {
 <template>
   <!-- <div>This page is about me.</div>
   <div><button @click="enableCustomLayout">Update layout</button></div> -->
-  <article class="prose dark:prose-invert prose-h1:text-2xl">
+  <article class="prose dark:prose-invert">
     <ContentRenderer v-if="page" :value="page" />
   </article>
 </template>

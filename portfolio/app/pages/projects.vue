@@ -1,6 +1,13 @@
+<script setup>
+const route = useRoute();
+
+const { data: page } = await useAsyncData(route.path, () => {
+  return queryCollection("content").path(route.path).first();
+});
+</script>
+
 <template>
-  <div>
-    <h2 class="text-2xl font-semibold mb-10">Projects</h2>
-    <project-list />
-  </div>
+  <article class="prose dark:prose-invert">
+    <ContentRenderer v-if="page" :value="page" />
+  </article>
 </template>
