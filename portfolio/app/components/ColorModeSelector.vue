@@ -22,7 +22,6 @@ const nextModeIcon = computed(() => nextModeIcons[nextMode.value]);
 
 const toggleMode = () => {
   colorMode.preference = nextMode.value;
-  console.log(nextMode.value);
 };
 </script>
 

@@ -9,4 +9,10 @@ export default defineNuxtConfig({
   colorMode: {
     classSuffix: "",
   },
+  tailwindcss: {
+    config: {
+      darkMode: "class",
+      plugins: [require("@tailwindcss/typography")],
+    },
+  },
 });
