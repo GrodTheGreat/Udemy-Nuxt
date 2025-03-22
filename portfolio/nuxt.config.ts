@@ -15,4 +15,16 @@ export default defineNuxtConfig({
       plugins: [require("@tailwindcss/typography")],
     },
   },
+  content: {
+    build: {
+      markdown: {
+        highlight: {
+          theme: {
+            default: "min-light",
+            dark: "min-dark",
+          },
+        },
+      },
+    },
+  },
 });
