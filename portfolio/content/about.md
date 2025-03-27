@@ -3,29 +3,27 @@ description: "meta description of the page"
 publishedAt: 2025-01-20
 ---
 
-# Hello There, I'm Piotr
+# Hello There, I'm G$
 
 ## About me
 
-I'm Piotr, I'm a developer and a Udemy Instructor. I'm 36, living in southern Poland with my wife and 2 golden retrievers. I'm vegan and pro-animal 🥑.
+I am but a humble button pusher, pushing buttons
 
-## What I teach on Udemy
+## What I program
 
-I teach mostly web development and I have courses on:
+I mostly do web development, but I am also interested in
 
-- Laravel (PHP framework)
-- Laravel & Vue & Inertia (PHP framework/JavaScript frontend framework)
-- Symfony (PHP framework)
-- NestJS (Node.js framework)
-- Nuxt 3 (JavaScript Full-stack framework)
+- Mobile
+- Desktop
+- Embedded
 
-## What software/hardware do I use?
+## What programming languages do I know
 
-Here's a list of everyday used software and hardware:
+Here's a list in order of competency:
 
-- MacBook Pro 16 2021
-- Rode NT USB microphone
-- VSCode
-- Chrome
-- ScreenFlow (Mac only)
-- Docker
+- Python
+- JavaScript/TypeScript
+  - Vue
+- C#
+- Go
+- C++
